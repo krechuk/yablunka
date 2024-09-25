@@ -3,7 +3,7 @@
 	"short_name": "Яблунька",
 	"description": "Yablunka",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#ffffff",
 	"icons": [
